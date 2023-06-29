@@ -1,10 +1,10 @@
 -i https://pypi.org/simple
 attrs==21.4.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'
 -e .
-awscli==1.25.26; python_version >= '3.7'
+awscli==1.27.69; python_version >= '3.7'
 backoff==1.11.1; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'
-boto3==1.24.26; python_version >= '3.7'
-botocore==1.27.26; python_version >= '3.7'
+boto3==1.26.69; python_version >= '3.7'
+botocore==1.29.69; python_version >= '3.7'
 click==7.1.2; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'
 click-completion==0.5.2
 colorama==0.4.4; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'
